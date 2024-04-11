@@ -1,0 +1,2 @@
+testDirectory=C:\Users\BPIN1VLM\SimBARobot\SimBACPP_Robot
+testSubDirectory=010-ItemManagement 020-Package 030-ReqManagement
